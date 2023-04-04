@@ -1,5 +1,4 @@
 # BankAccount-Java
-BankAccount Java
 This is a simple Java program for managing bank accounts.
 
 Introduction
