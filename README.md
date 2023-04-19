@@ -12,7 +12,6 @@ Deposit funds into an account
 Transfer funds between accounts
 Getting Started
 To get started, you will need to have Java installed on your computer. If you don't have it installed already, you can download it here.
-
 Once you have Java installed, you can download the BankAccount.java file from this repository and run it in your Java compiler or IDE.
 
 deposit - deposits funds into an account
