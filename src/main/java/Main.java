@@ -28,5 +28,6 @@ public class Main {
         saraAccount.feed_account(3000);
         saraAccount.card_payment(2000);
         saraAccount.balance_query();
+
     }
 }
